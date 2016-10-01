@@ -12,6 +12,7 @@
 		51238E7F1DA033F7003F22E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51238E7E1DA033F7003F22E1 /* Assets.xcassets */; };
 		51238E821DA033F7003F22E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51238E801DA033F7003F22E1 /* LaunchScreen.storyboard */; };
 		51842FCF1DA051BD00DAAE4C /* TopNavTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51842FCE1DA051BD00DAAE4C /* TopNavTableViewController.swift */; };
+		51842FD11DA06E4C00DAAE4C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 51842FD01DA06E4C00DAAE4C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		51238E811DA033F7003F22E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		51238E831DA033F7003F22E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		51842FCE1DA051BD00DAAE4C /* TopNavTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopNavTableViewController.swift; sourceTree = "<group>"; };
+		51842FD01DA06E4C00DAAE4C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		51238E6B1DA033F7003F22E1 = {
 			isa = PBXGroup;
 			children = (
+				51842FD01DA06E4C00DAAE4C /* README.md */,
 				51238E761DA033F7003F22E1 /* NavigationExperiment */,
 				51238E751DA033F7003F22E1 /* Products */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51842FD11DA06E4C00DAAE4C /* README.md in Sources */,
 				51238E781DA033F7003F22E1 /* AppDelegate.swift in Sources */,
 				51842FCF1DA051BD00DAAE4C /* TopNavTableViewController.swift in Sources */,
 			);
