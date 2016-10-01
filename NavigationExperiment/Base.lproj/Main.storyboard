@@ -250,7 +250,7 @@ Nothing default on left.</string>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="TqR-68-ULJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="ekG-vh-Fk5" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="4810.3999999999996" y="802.848575712144"/>
+            <point key="canvasLocation" x="2820" y="1498"/>
         </scene>
         <!--Custom Back right-->
         <scene sceneID="hV2-Xs-Tg8">
@@ -299,7 +299,7 @@ and create segue from item button to the "exit" icon on top. Connect to added me
                 <placeholder placeholderIdentifier="IBFirstResponder" id="B6e-bA-hal" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="Wag-XL-3gp" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="3190" y="-197"/>
+            <point key="canvasLocation" x="3542" y="805"/>
         </scene>
         <!--Show 1 title-->
         <scene sceneID="wOf-5f-Nif">
@@ -334,7 +334,7 @@ This applies to any "Show" segue used in this table that have no added navigatio
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OBh-Ha-axt" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2519" y="-870"/>
+            <point key="canvasLocation" x="3258" y="-915"/>
         </scene>
         <!--Show title 2-->
         <scene sceneID="MPV-d0-fHG">
@@ -369,7 +369,7 @@ This applies to any "Show" segue used in this table that have no added navigatio
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="UY7-at-Yhj" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3190" y="-870"/>
+            <point key="canvasLocation" x="3942" y="-560"/>
         </scene>
         <!--Top nav-->
         <scene sceneID="Hc9-4G-0qf">
@@ -437,7 +437,7 @@ This applies to any "Show" segue used in this table that have no added navigatio
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="SOC-NI-eWw" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="577" y="747"/>
+            <point key="canvasLocation" x="577" y="805"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="43r-HA-APw">
@@ -497,7 +497,7 @@ Same as on right, but replaces the default back button.</string>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pKa-cq-rv8" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="Clh-sW-eSy" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="3847" y="-197"/>
+            <point key="canvasLocation" x="3942" y="125"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="XWK-EW-hmQ">
@@ -515,7 +515,7 @@ Same as on right, but replaces the default back button.</string>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="WAl-A5-Khq" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3871.1999999999998" y="802.848575712144"/>
+            <point key="canvasLocation" x="2820" y="805"/>
         </scene>
         <!--Popover title-->
         <scene sceneID="YGb-Bh-ySB">
@@ -563,7 +563,7 @@ Nothing default on left.</string>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8s8-9R-ant" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="tut-Yt-nRH" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="3119" y="761"/>
+            <point key="canvasLocation" x="2105" y="1498"/>
         </scene>
         <!--Table show 1-->
         <scene sceneID="T9Y-dE-dxm">
@@ -617,7 +617,7 @@ Nothing default on left.</string>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="msh-lI-Ui7" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1516" y="746"/>
+            <point key="canvasLocation" x="1362" y="805"/>
         </scene>
         <!--Table show 1.1-->
         <scene sceneID="Sjl-gm-q7v">
@@ -665,7 +665,7 @@ Nothing default on left.</string>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kTO-E8-5gj" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1516" y="1497"/>
+            <point key="canvasLocation" x="1361" y="1497"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="cBj-Eb-dic">
@@ -683,7 +683,7 @@ Nothing default on left.</string>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0eW-jj-JYg" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2330" y="761"/>
+            <point key="canvasLocation" x="2105" y="805"/>
         </scene>
     </scenes>
 </document>
