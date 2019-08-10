@@ -12,7 +12,6 @@
 		51238E7F1DA033F7003F22E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51238E7E1DA033F7003F22E1 /* Assets.xcassets */; };
 		51238E821DA033F7003F22E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51238E801DA033F7003F22E1 /* LaunchScreen.storyboard */; };
 		51842FCF1DA051BD00DAAE4C /* TopNavTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51842FCE1DA051BD00DAAE4C /* TopNavTableViewController.swift */; };
-		51842FD11DA06E4C00DAAE4C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 51842FD01DA06E4C00DAAE4C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -100,6 +99,7 @@
 					51238E731DA033F7003F22E1 = {
 						CreatedOnToolsVersion = 8.0;
 						DevelopmentTeam = N4DH3D8HZT;
+						LastSwiftMigration = 1030;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -140,7 +140,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51842FD11DA06E4C00DAAE4C /* README.md in Sources */,
 				51238E781DA033F7003F22E1 /* AppDelegate.swift in Sources */,
 				51842FCF1DA051BD00DAAE4C /* TopNavTableViewController.swift in Sources */,
 			);
@@ -288,7 +287,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = montpetit.org.NavigationExperiment;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -301,7 +300,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = montpetit.org.NavigationExperiment;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
